@@ -1,7 +1,7 @@
 
 ### **Alco-Free Helper Chatbot** (Python) 
 
-To download the project file, click [here](https://github.com/ioosck1/ioosck1/tree/main/project/line_chatbot_python)
+To download the project file, click [here](https://github.com/DonyWeasley/project/tree/main/project/line_chatbot_python).
 
 This project is a chatbot that promotes healthy lifestyle choices by suggesting **non-alcoholic drinks**. The chatbot is built using **Python** and trained on a dataset of predefined phrases categorized into **6 different classes**. The AI responds with fixed answers based on the detected class.
 
