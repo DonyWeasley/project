@@ -23,7 +23,7 @@ The program parses the input expression and outputs the final result as a standa
 
 ### **Game Rental Store** (C++) 
 
-To download the project file, click [here](https://github.com/ioosck1/ioosck1/tree/main/project/game%20rental%20store.cpp)
+To download the project file, click [here](https://github.com/DonyWeasley/project/blob/main/project/game%20rental%20store.cpp).
 
 A command-line program that simulates a **game rental service**. Users can interact with the program by answering questions in a **step-by-step format**, and the program provides a summary and generates a **receipt in a .txt file** if the user requests it.
 
