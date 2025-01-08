@@ -18,7 +18,7 @@ A **mini-project** focused on designing the user interface for a **bus ticket bo
 
 ---
 
-## **Alco-Free Helper Chatbot** (Python)
+## **Alcohol Cessation Chatbot Project.
 
 [Download Project](https://github.com/DonyWeasley/project/tree/main/project/line_chatbot_python)
 
@@ -26,13 +26,6 @@ This Python-based chatbot promotes healthy lifestyle choices by suggesting **non
 
 🔗 [View Details](https://drive.google.com/file/d/1Dv4lfBYVDrJ_FkvrqYGSY6O6aX8vdZYt/view?usp=sharing)
 
-### **How It Works**:
-1. **Prefix Notation**  
-   Example: `+ - 2 3 * 3 4`
-2. **Infix Notation**  
-   Example: `( ( 1 + 2 ) + ( 2 / 3 ) )`
-3. **Postfix Notation**  
-   Example: `2 3 + 4 *`
 
 ---
 
