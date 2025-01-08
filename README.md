@@ -14,7 +14,7 @@ A **mini-project** focused on designing the user interface for a **bus ticket bo
 
 [Download Figma Project](https://www.figma.com/design/Fjaufv6cvjiQxobv58poze/Manoi_BusTours?node-id=0-1&p=f)
 
-🔗 [View Details](https://drive.google.com/file/d/1Dv4lfBYVDrJ_FkvrqYGSY6O6aX8vdZYt/view?usp=sharing)
+🔗 [View Details](https://github.com/DonyWeasley/project/blob/main/project/831_Manoi.pdf).
 
 ---
 
