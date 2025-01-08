@@ -12,7 +12,7 @@ A **mini-project** focused on designing the user interface for a **bus ticket bo
 - Created intuitive layouts for smooth user interaction.
 - Focused on the **user experience (UX)** to ensure seamless navigation throughout the booking process.
 
-[Download Figma Project](https://www.figma.com/design/Fjaufv6cvjiQxobv58poze/Manoi_BusTours?node-id=0-1&p=f)
+[Open Project Files](https://www.figma.com/design/Fjaufv6cvjiQxobv58poze/Manoi_BusTours?node-id=0-1&p=f)
 
 🔗 [View Details](https://github.com/DonyWeasley/project/blob/main/project/831_Manoi.pdf).
 
@@ -20,7 +20,7 @@ A **mini-project** focused on designing the user interface for a **bus ticket bo
 
 ## **Alcohol Cessation Chatbot Project.**
 
-[Download Project](https://github.com/DonyWeasley/project/tree/main/project/line_chatbot_python)
+[Open Project Files](https://github.com/DonyWeasley/project/tree/main/project/line_chatbot_python)
 
 This Python-based chatbot promotes healthy lifestyle choices by suggesting **non-alcoholic drinks**. The chatbot uses a dataset of predefined phrases categorized into **6 different classes**. The AI responds based on the detected class.
 
@@ -31,7 +31,7 @@ This Python-based chatbot promotes healthy lifestyle choices by suggesting **non
 
 ## **Game Rental Store** (C++)
 
-[Download Project](https://github.com/DonyWeasley/project/blob/main/project/game%20rental%20store.cpp)
+[Open Project Files](https://github.com/DonyWeasley/project/blob/main/project/game%20rental%20store.cpp)
 
 A command-line program that simulates a **game rental service**. It guides users through a series of questions to calculate rental costs and generate a receipt.
 
@@ -46,7 +46,7 @@ A command-line program that simulates a **game rental service**. It guides users
 
 ## **Puzzle Game** (Java)
 
-[Download Project](https://github.com/DonyWeasley/project/tree/main/project/Puzzle%20game)
+[Open Project Files](https://github.com/DonyWeasley/project/tree/main/project/Puzzle%20game)
 
 A **number puzzle game** where players arrange numbers in ascending order on a randomized 4x4 grid, with a 5-minute timer tracking progress.
 
@@ -61,7 +61,7 @@ A **number puzzle game** where players arrange numbers in ascending order on a r
 
 ## **Food Shop Program** (Python)
 
-[Download Project](https://github.com/DonyWeasley/project/blob/main/project/Food_Shop3.py)
+[Open Project Files](https://github.com/DonyWeasley/project/blob/main/project/Food_Shop3.py)
 
 A command-line program simulating a **food ordering system**, allowing users to browse, add items to a cart, apply promotions, and finalize orders.
 
