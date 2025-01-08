@@ -1,47 +1,3 @@
-# 🎮 My Game Development Portfolio
-
-This repository showcases my **Game Development Projects** as well as **other programming projects** I have worked on. The projects include custom maps, tools, and scripts that demonstrate my skills in **coding**, **problem-solving**, and **game modding**.
-
-## 🕹️ **Main Projects**
-
-#### **Anime MOBA Map (Fan-made)**
-A fan-made **MOBA-style map** for **Warcraft III: The Frozen Throne**, created using **WorldEdit**. This project showcases my skills in **level design**, **scripting**, and working with custom models.
-
-##### 📥 **Download & Setup**
-- **Map file (.w3x)**: [Download Link](https://drive.google.com/file/d/1AWgwFB4NwI40oNgwdcZqy-gApe05fevr/view)  
-- **Model pack (.mix)**: [Download Link](#)  
-- **Bypass file**: [Download Link](https://www.hiveworkshop.com/threads/warcraft-iii-bypass-map-file-size-limit-ver-6.259571/)
-
-##### 🛠️ **Installation Steps**
-1. Place the **map file (.w3x)** in the folder:
-  ```
-  Warcraft III/Maps/Downloads
-  ```
-2. Place the **model pack (.mix)** in the folder:
-  ```
-  Warcraft III/redist/miles
-  ```
-3. Place the **bypass file (.mix)** in the folder:
-  ```
-  Warcraft III
-  ```
-4. Adjust In-Game Settings:
-- Open **Warcraft III**.
-- Go to **Options** -> **Video**.
-- Set **all graphics settings to High** for the best experience.
-
-##### 📋 **Credits Model**
-- **[VK Mdx WC3](https://vk.com/mdxwc3)**
-- **[Hive Workshop](https://www.hiveworkshop.com/)**
-- **[Chaos Realm](https://chaosrealm.co/)**
-
----
-
-## 🧑‍💻 **Other Projects**
-
-These are projects I have completed as part of coursework, with the final submission to the instructor. No further revisions were made after submission.
-
----
 
 ### **Alco-Free Helper Chatbot** (Python) 
 
@@ -52,12 +8,6 @@ This project is a chatbot that promotes healthy lifestyle choices by suggesting 
 🔗 [Visit Detail](https://drive.google.com/file/d/1Dv4lfBYVDrJ_FkvrqYGSY6O6aX8vdZYt/view?usp=sharing)
 
 ---
-
-### **Tree Calculate Expression** (Java) 
-
-To download the project file, click [here](https://github.com/ioosck1/ioosck1/tree/main/project/Treecalexp.java)
-
-A command-line program that **transforms mathematical expressions** into a format that is easy to understand and calculates the result based on the given input. Users can input expressions in **prefix**, **infix**, or **postfix** notation.
 
 #### **How It Works**:
 1. **Prefix Notation**:  
