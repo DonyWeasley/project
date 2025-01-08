@@ -43,7 +43,7 @@ This structured flow ensures that users interact with the program in a logical o
 
 ### **Puzzle Game** (Java) 
 
-To download the project file, click [here][(https://github.com/ioosck1/ioosck1/tree/main/project/Puzzle%20game) ](https://github.com/DonyWeasley/project/tree/main/project/Puzzle%20game)
+To download the project file, click [here](https://github.com/ioosck1/ioosck1/tree/main/project/Puzzle%20game) 
 
 A **number puzzle game** where players must arrange numbers in ascending order by sliding tiles on a 4x4 grid. The game starts with a randomized board and includes a timer to track progress.
 
