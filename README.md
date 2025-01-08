@@ -58,7 +58,7 @@ A **number puzzle game** where players must arrange numbers in ascending order b
 
 ### **Food Shop Program** (Python) 
 
-To download the project file, click [here](https://github.com/ioosck1/ioosck1/tree/main/project/Food_Shop3.py)
+To download the project file, click [here](https://github.com/DonyWeasley/project/blob/main/project/Food_Shop3.py).
 
 A command-line application that simulates a **food ordering system**. Users can browse menus, add items to their cart, and apply promotions. The program also includes interactive features such as confirming orders and removing items from the cart.
 
