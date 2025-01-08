@@ -18,7 +18,7 @@ A **mini-project** focused on designing the user interface for a **bus ticket bo
 
 ---
 
-## **Alcohol Cessation Chatbot Project.
+## **Alcohol Cessation Chatbot Project.**
 
 [Download Project](https://github.com/DonyWeasley/project/tree/main/project/line_chatbot_python)
 
