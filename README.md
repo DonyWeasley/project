@@ -1,86 +1,102 @@
-# My Project
+# My Project Portfolio
 
-Welcome to my project repository! Below you will find details about the various projects I have worked on.
+Welcome to my project portfolio! Below are some of the notable projects that I've worked on. You can find more details and download the project files by following the provided links.
+
+
+## **Bus Ticket Booking System** (Figma)
+
+A **mini-project** focused on designing the user interface for a **bus ticket booking system**. The project involves creating the **application page** with all necessary components, such as ticket selection, seat booking, payment interface, and booking confirmation.
+
+### **Responsibilities**:
+- Designed and structured the user interface using **Figma**.
+- Created intuitive layouts for smooth user interaction.
+- Focused on the **user experience (UX)** to ensure seamless navigation throughout the booking process.
+
+[Download Figma Project](https://www.figma.com/design/Fjaufv6cvjiQxobv58poze/Manoi_BusTours?node-id=0-1&p=f)
+
+🔗 [View Details](https://drive.google.com/file/d/1Dv4lfBYVDrJ_FkvrqYGSY6O6aX8vdZYt/view?usp=sharing)
 
 ---
 
 ## **Alco-Free Helper Chatbot** (Python)
 
-To download the project file, click [here](https://github.com/DonyWeasley/project/tree/main/project/line_chatbot_python)
+[Download Project](https://github.com/DonyWeasley/project/tree/main/project/line_chatbot_python)
 
-This project is a chatbot that promotes healthy lifestyle choices by suggesting **non-alcoholic drinks**. The chatbot is built using **Python** and trained on a dataset of predefined phrases categorized into **6 different classes**. The AI responds with fixed answers based on the detected class.
+This Python-based chatbot promotes healthy lifestyle choices by suggesting **non-alcoholic drinks**. The chatbot uses a dataset of predefined phrases categorized into **6 different classes**. The AI responds based on the detected class.
 
-🔗 [Visit Detail](https://drive.google.com/file/d/1Dv4lfBYVDrJ_FkvrqYGSY6O6aX8vdZYt/view?usp=sharing)
+🔗 [View Details](https://drive.google.com/file/d/1Dv4lfBYVDrJ_FkvrqYGSY6O6aX8vdZYt/view?usp=sharing)
 
-### How It Works:
-1. **Prefix Notation**:  
+### **How It Works**:
+1. **Prefix Notation**  
    Example: `+ - 2 3 * 3 4`
-2. **Infix Notation**:  
+2. **Infix Notation**  
    Example: `( ( 1 + 2 ) + ( 2 / 3 ) )`
-3. **Postfix Notation**:  
+3. **Postfix Notation**  
    Example: `2 3 + 4 *`
 
 ---
 
 ## **Game Rental Store** (C++)
 
-To download the project file, click [here](https://github.com/DonyWeasley/project/blob/main/project/game%20rental%20store.cpp)
+[Download Project](https://github.com/DonyWeasley/project/blob/main/project/game%20rental%20store.cpp)
 
-A command-line program that simulates a **game rental service**. Users can interact with the program by answering questions in a **step-by-step format**, and the program provides a summary and generates a **receipt in a .txt file** if the user requests it.
+A command-line program that simulates a **game rental service**. It guides users through a series of questions to calculate rental costs and generate a receipt.
 
-### How It Works:
-1. The user is asked how many games they want to rent (up to 5).  
-2. The user specifies the rental duration (in days).  
-3. The user is asked how many people will split the rental cost.  
-4. The user selects the games they want to rent by entering the corresponding number for each game.  
-5. The program calculates the total cost and displays a summary of the rental details.  
-6. The user is asked whether they want a receipt:  
-   - **If Yes**: The program generates a `.txt` file with all rental details.  
-   - **If No**: The program ends without generating a receipt.
+### **How It Works**:
+1. Select the number of games (up to 5).
+2. Specify the rental duration (in days).
+3. Choose how many people will split the cost.
+4. Select the games to rent.
+5. Get a summary and optionally download a receipt.
 
 ---
 
 ## **Puzzle Game** (Java)
 
-To download the project file, click [here](https://github.com/DonyWeasley/project/tree/main/project/Puzzle%20game)
+[Download Project](https://github.com/DonyWeasley/project/tree/main/project/Puzzle%20game)
 
-A **number puzzle game** where players must arrange numbers in ascending order by sliding tiles on a 4x4 grid. The game starts with a randomized board and includes a timer to track progress.
+A **number puzzle game** where players arrange numbers in ascending order on a randomized 4x4 grid, with a 5-minute timer tracking progress.
 
-### Features:
-- **Start Button**: Randomizes the puzzle layout and starts a 5-minute timer.  
-- **Submit Button**: Checks if the puzzle is correctly solved.  
-- **Exit Button**: Allows the player to exit the game with a confirmation prompt.
+### **Features**:
+- **Start Button**: Randomizes the board and starts a timer.
+- **Submit Button**: Checks if the puzzle is solved.
+- **Exit Button**: Exits the game with a confirmation prompt.
 
-**Limitation**: The timer cannot be paused or adjusted mid-game.
+❗ **Limitation**: The timer cannot be paused or adjusted mid-game.
 
 ---
 
 ## **Food Shop Program** (Python)
 
-To download the project file, click [here](https://github.com/DonyWeasley/project/blob/main/project/Food_Shop3.py)
+[Download Project](https://github.com/DonyWeasley/project/blob/main/project/Food_Shop3.py)
 
-A command-line application that simulates a **food ordering system**. Users can browse menus, add items to their cart, and apply promotions. The program also includes interactive features such as confirming orders and removing items from the cart.
+A command-line program simulating a **food ordering system**, allowing users to browse, add items to a cart, apply promotions, and finalize orders.
 
-### Main Menu Options:
-1. **Food and Drinks Menu**:  
-   - Users can choose from different categories such as food or drinks.  
-   - Once inside, users can select items by typing the corresponding number.
+### **Main Features**:
+- **Food & Drink Menu**: Browse and select items.
+- **Cart**: View and modify selected items, apply promotions.
+- **Order Confirmation**: Finalize the order or remove items.
 
-2. **Cart**:  
-   - Displays the selected items, their quantities, and the total price.  
-   - Automatically applies any available promotions to the cart.  
-   - Users have the following sub-options:  
-     - **Confirm Order**: Finalizes the order and shows the total cost.  
-     - **Remove Item**: Allows users to remove items from the cart by typing the exact item name.  
-     - **Check Promotions**: Displays any applicable promotions.
+#### **How to Input Commands**:
+- Select options by typing numbers separated by spaces:  
+  Example: `1 2 3 4`
 
-3. **Promotions Details**:  
-   - Lists available promotions and explains how they apply to specific items.
+❗ **Limitation**: Some price calculations may be incorrect due to unhandled edge cases in the promotion logic.
 
-4. **Exit Program**:  
-   - Ends the program with a confirmation prompt.
+---
 
-### How to Input Commands:
-- To select multiple options at once, type the numbers or commands separated by a **single space**.  
-  Example:  
+## 📜 **License**
+This repository and all projects within it are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.  
+See the **[LICENSE.txt](LICENSE.txt)** file for more details.
+
+---
+
+## ⚠️ **Disclaimer**
+These projects are **non-commercial** and intended for **learning** and **portfolio purposes** only. All copyrighted materials belong to their respective owners.
+
+---
+
+## 📝 **Note**
+Please respect the original creators of any content used and ensure your use complies with relevant copyright laws.
+
 
